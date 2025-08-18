@@ -20,5 +20,27 @@ This script demonstrates basic list operations in Python, including:
 1. Download script `week2.py` 
 2. Run the script:
 
-```bash
+# ----- Week 2 ----
+## Discount Calculator
+
+## Overview
+
+This script calculates the final price of an item after applying a discount.
+
+If the discount is 20% or higher, the discount is applied.
+
+If the discount is less than 20%, the original price is returned.
+
+## Requirements
+
+Python 3.x
+
+## Usage
+
+Download the script: week3.py
+
+Run the script:
+
+python week3.py
 python week2.py
+
