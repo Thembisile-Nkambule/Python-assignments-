@@ -20,7 +20,7 @@ This script demonstrates basic list operations in Python, including:
 1. Download script `week2.py` 
 2. Run the script:
 
-# ----- Week 2 ----
+# ----- Week 3 ----
 ## Discount Calculator
 
 ## Overview
