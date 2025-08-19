@@ -42,5 +42,38 @@ Download the script: week3.py
 Run the script:
 
 python week3.py
+
+
+# ----- Week 3 ----
+File Read & Write Challenge in Python
+Overview
+
+This script demonstrates basic file operations in Python, including:
+
+Reading the contents of a user-specified file
+
+Splitting text into words and counting them
+
+Converting all text to uppercase
+
+Writing the processed text and word count to a new file (output.txt)
+
+Handling errors such as missing files or permission issues
+
+This is ideal for beginners learning how to read, process, and write files in Python.
+
+## Requirements
+
+Python 3.x installed on your system
+
+## Usage
+
+Download the script: week4.py
+
+Open a terminal or command prompt in the folder containing the script
+
+## Run the script:
+
+python week4.py
 python week2.py
 
